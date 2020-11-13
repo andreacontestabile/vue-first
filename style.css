@@ -1,0 +1,27 @@
+header {
+  position: relative;
+  height: 80px;
+  line-height: 80px;
+  background-color: #12607d;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+}
+
+h1 {
+  line-height: 80px;
+  color: #fff;
+  text-shadow: 2px 2px 0 #333;
+  text-align: center;
+}
+
+main {
+  height: calc(100vh - 80px);
+  background-color: #083140;
+}
+
+main {
+  padding: 80px 0;
+}
+
+ul.list-group {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+}
